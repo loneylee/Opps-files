@@ -5,3 +5,4 @@ eureka:
   client:
     register-with-eureka: false
     fetch-registry: false
+from:  git-dev-1.0
