@@ -1,6 +1,3 @@
-server:
-  port: 8701
-
 eureka:
   client:
     register-with-eureka: false
